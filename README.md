@@ -1,5 +1,4 @@
 # Hi 👋 I'm Sanjay
-
 🎓 Integrated M.Tech Student  
 📚 Branch: Artificial Intelligence  
 📅 Year: 2025-2030
